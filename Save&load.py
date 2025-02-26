@@ -20,3 +20,5 @@ load_xy = np.loadtxt("x_y-squared.csv", delimiter=",")
 x = load_xy[:,0]
 y = load_xy[:,1]
 print(x , y)
+
+
