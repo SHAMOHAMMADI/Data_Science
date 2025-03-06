@@ -228,3 +228,7 @@ median = np.median(arr1)
 percentile = np.percentile(arr_2d , 50)
 print(percentile)
 print(np.ndim(arr_2d))
+
+import torch 
+x6 = torch.tensor([6 , 5 , 7 , 8])
+print(x6)
